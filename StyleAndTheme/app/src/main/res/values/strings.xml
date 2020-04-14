@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">Erika Febriyani adalah seorang selebgram yang mempunyai banyak follower mencapai 500k, dan sekarang dia banyak menerima endors.</string>
+    <string name="content_specs_Lahir">24 Februari 1998</string>
+    <string name="content_specs_Tinggi">150 cm</string>
+    <string name="content_specs_Alamat">Rt 01 Rw 13 dsn. Tlogorejo ds. Tlogorejo Karangawen Demak Jawa Tengah Indones</string>
+    <string name="mahasiswa">Mahasiswa Informatika</string>
+    <string name="Detail">Detail</string>
+    <string name="Lahir">Lahir</string>
+    <string name="Tinggi">Tinggi</string>
+    <string name="Alamat">Alamat</string>
+    <string name="seller">tugas dibuat oleh</string>
+    <string name="my_name">Nama : Erika febriyani\n
+    NPM : 17670021</string>
+    <string name="tugas">Uts</string>
+    <string name="nama_saya" >Erika febriyani</string>
+    <string name="dummy_photos">photos</string>
+</resources>
